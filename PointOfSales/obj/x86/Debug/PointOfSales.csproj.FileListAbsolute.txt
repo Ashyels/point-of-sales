@@ -1,0 +1,13 @@
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\bin\Debug\PointOfSales.pdb
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\bin\Debug\PenjualanComponent.dll
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\bin\Debug\PenjualanComponent.pdb
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\PointOfSales.Form1.resources
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\PointOfSales.Properties.Resources.resources
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\PointOfSales.exe
+D:\[MK]\[MK] Teknik Pemrograman\UTS\PointOfSales\PointOfSales\obj\x86\Debug\PointOfSales.pdb
+D:\[MK]\[MK] Teknik Pemrograman\UTS_Ifan Dhani P_141524011\PointOfSales\PointOfSales\obj\x86\Debug\PointOfSales.exe
+D:\[MK]\[MK] Teknik Pemrograman\UTS_Ifan Dhani P_141524011\PointOfSales\PointOfSales\obj\x86\Debug\PointOfSales.pdb
